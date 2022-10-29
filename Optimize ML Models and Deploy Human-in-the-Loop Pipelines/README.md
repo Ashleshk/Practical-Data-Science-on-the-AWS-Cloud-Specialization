@@ -29,7 +29,10 @@
 
    ![Amazon SageMaker HPT job](https://github.com/Ashleshk/Practical-Data-Science-on-the-AWS-Cloud-Specialization/blob/main/Optimize%20ML%20Models%20and%20Deploy%20Human-in-the-Loop%20Pipelines/images/sagemaker_hpt.png) 
 
+## Generated result     
+* post completion of Assignment
 
+    ![Confusion Matrix](https://github.com/Ashleshk/Practical-Data-Science-on-the-AWS-Cloud-Specialization/blob/main/Optimize%20ML%20Models%20and%20Deploy%20Human-in-the-Loop%20Pipelines/generated/confusion_matrix.png)
 
 
 
