@@ -21,6 +21,15 @@
         * **Data panelism, and model panelism** that allow you to handle training at scale. The challenges addressed by these strategies include training with large volumes of data as well as dealing with increased model complexity. 
     * Finally, discussion of **Sage maker capability of bringing your own container**, which allows you to implement your own custom logic for your algorithms and train on Sage maker managed infrastructure.
 
+## HyperParameter Tuning Model
+
+   ![HyperParameter Tuning Model](https://github.com/Ashleshk/Practical-Data-Science-on-the-AWS-Cloud-Specialization/blob/main/Optimize%20ML%20Models%20and%20Deploy%20Human-in-the-Loop%20Pipelines/images/hpt.png) 
+
+## Amazon SageMaker HPT job
+
+   ![Amazon SageMaker HPT job](https://github.com/Ashleshk/Practical-Data-Science-on-the-AWS-Cloud-Specialization/blob/main/Optimize%20ML%20Models%20and%20Deploy%20Human-in-the-Loop%20Pipelines/images/hpt.png) 
+
+
 
 
 
