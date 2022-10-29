@@ -1,0 +1,1 @@
+{"RuleTriggered": 0, "Violations": 0, "Details": {}, "Datapoints": 0, "RuleParameters": "threshold_p95:70\nthreshold_p5:10\nwindow:500\npatience:1000"}

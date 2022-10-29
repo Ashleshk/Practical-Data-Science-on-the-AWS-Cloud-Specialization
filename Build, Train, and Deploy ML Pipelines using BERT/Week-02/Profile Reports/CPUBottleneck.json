@@ -1,0 +1,1 @@
+{"RuleTriggered": 0, "Violations": 0, "Details": {"low_gpu_utilization": 0, "bottlenecks": {}}, "Datapoints": 5182, "RuleParameters": "threshold:50\ncpu_threshold:90\ngpu_threshold:10\npatience:1000"}
