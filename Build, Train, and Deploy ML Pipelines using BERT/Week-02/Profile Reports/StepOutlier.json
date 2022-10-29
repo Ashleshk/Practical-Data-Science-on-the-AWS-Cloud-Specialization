@@ -1,0 +1,1 @@
+{"RuleTriggered": 0, "Violations": 0, "Details": {"step_details": {}}, "Datapoints": 86, "RuleParameters": "threshold:3\nmode:None\nn_outliers:10\nstddev:3"}
